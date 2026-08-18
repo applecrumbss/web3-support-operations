@@ -1,10 +1,10 @@
-# 🛠️ Web3 Support Operations & Troubleshooting Simulator
+#  Web3 Support Operations & Troubleshooting Simulator
 
 Welcome to my Web3 Customer Support Operations portfolio. This repository simulates a real-world Web3 Helpdesk environment, featuring end-to-end support frameworks, escalation matrices, and deep-dive technical case studies.
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 * **Role Focus:** Web3 Customer Support Specialist / Technical Support / Support Operations
 * **Primary Competencies:** Blockchain Transaction Diagnostics (Etherscan/Arbiscan), Hardware Wallet Troubleshooting, Token Approval/Security Triage, Customer Communication & Escalation Management.
@@ -12,7 +12,7 @@ Welcome to my Web3 Customer Support Operations portfolio. This repository simula
 
 ---
 
-## 📊 Performance & Operations Metrics (Simulated)
+##  Performance & Operations Metrics (Simulated)
 
 Below is an operational snapshot of the mock support system handling user inquiries across EVM chains (Ethereum, Arbitrum, Polygon):
 
@@ -26,7 +26,7 @@ Below is an operational snapshot of the mock support system handling user inquir
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - [**Escalation Matrix**](./escalation-matrix.md): Standardized triage framework across Support, Tech Ops, Security, and Engineering.
 - [**Knowledge Base**](./kb-articles.md): Standard Operating Procedures (SOPs) for common user errors.
@@ -37,7 +37,7 @@ Below is an operational snapshot of the mock support system handling user inquir
 
 ---
 
-## 💡 Key Operational Insights
+##  Key Operational Insights
 
 1. **Empathy + Technical Clarity:** Web3 users facing lost funds or stuck transactions are often anxious. Support must provide clear, reassuring, and non-jargon steps immediately.
 2. **Never Ask for Private Keys:** Security rule #1 in all support templates is explicitly warning users that support staff will NEVER request Seed Phrases, Private Keys, or Remote Desktop access.
