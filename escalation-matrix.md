@@ -20,13 +20,13 @@ To maintain efficiency and protect user funds, all incoming tickets are triaged 
 
 [ Tier 1: Customer Support ]
 │
-├─► Resolved? ──► YES ──► Close Ticket & Update KB
+─► Resolved? ──► YES ──► Close Ticket & Update KB
 
 │
-└─► NO (Technical dApp/RPC Error) ──► Escalates to [ Tier 2: Tech Ops ]
+─► NO (Technical dApp/RPC Error) ──► Escalates to [ Tier 2: Tech Ops ]
 
 │
-└─► Vulnerability/Contract Bug? ──► [ Tier 3: Security / Eng ]
+─► Vulnerability/Contract Bug? ──► [ Tier 3: Security / Eng ]
 
 ### Escalation Guidelines
 1. **Tier 1 (Frontline Support):** Gathers TxHash, wallet address, chain ID, browser version, and console logs. Resolves standard UI, RPC, and setup issues.
