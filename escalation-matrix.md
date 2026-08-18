@@ -21,8 +21,10 @@ To maintain efficiency and protect user funds, all incoming tickets are triaged 
 [ Tier 1: Customer Support ]
 │
 ├─► Resolved? ──► YES ──► Close Ticket & Update KB
+
 │
 └─► NO (Technical dApp/RPC Error) ──► Escalates to [ Tier 2: Tech Ops ]
+
 │
 └─► Vulnerability/Contract Bug? ──► [ Tier 3: Security / Eng ]
 
